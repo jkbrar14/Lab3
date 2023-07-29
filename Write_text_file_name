@@ -8,3 +8,9 @@ def write_name():
 	write_data = f.write(name)
 	print(f"{filename} has been created)
 write_name()
+
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
